@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">multiChoiceDialog</string>
+    <string name="textView">餐點</string>
+    <string name="button">點餐</string>
+</resources>
